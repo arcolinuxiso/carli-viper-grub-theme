@@ -1,4 +1,4 @@
-# Bao grub theme
+# Carli grub theme
 
 
 
